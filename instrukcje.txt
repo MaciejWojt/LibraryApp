@@ -1,0 +1,6 @@
+1. należy pobrać i zainstalować xampp
+2. trzeba utworzyć bazę danych o nazwie "library"
+3. do tej bazy należy zaimportować plik library.sql, który znajduje się w aktualnym katalogu
+4. w programie eclipse należy dodać do classpath niezbędne pliki .jar, które znajdują się w aktualnym katalogu
+5. dodać ścieżkę absolutną do katalogu, gdzie znajdują się pliki csv (w linii 205 znajduje się stosowny komentarz)
+
